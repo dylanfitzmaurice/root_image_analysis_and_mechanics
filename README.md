@@ -1,7 +1,7 @@
 # root_image_analysis_and_mechanics
 This repository contains the code and instructions used to measure cell type specifc area of Arabidopsis thaliana root transverse sections. Additionally, it then creates a finite element model from the cross section and solves for the mechanical stresses at cellular resolution throughout the tissue. 
 
-Code is written in either the Matlab coding language. 
+Code is written in the Matlab coding language. 
 
 Cell counting and area measurements from optical sections.
   1. Use confocal microscope to obtain transverse optical sections.
