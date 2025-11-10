@@ -12,12 +12,10 @@ solid_disk_freebc.m
 
 | Radial stress | Circumferential (hoop) stress | Von Mises stress |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/4345a3d4-4673-4de0-baf6-0ca9f2239cfa" width="300"> | <img src="https://github.com/user-attachments/assets/6f1ced39-bf44-483d-aaef-29677d969714" width="300"> | <img src="https://github.com/user-attachments/assets/69c8684e-98d4-45a2-b9c4-258120f5dd0e" width="300"> |
-
+| <img src="https://github.com/user-attachments/assets/a85366db-6063-4bfc-bfdc-68d057581313" width="300"> | <img src="https://github.com/user-attachments/assets/c810e71b-4fef-4c28-9055-0c9bf5f78a2d" width="300"> | <img src="https://github.com/user-attachments/assets/593a5b88-7105-42d0-bab7-f3b39ca9b763" width="300"> |
 
 
 A control to demonstrate how stresses are distributed through a tissue of approximately equal sized cells + 2x thick outer rim. 
-
 
 | Radial stress | Circumferential (hoop) stress | Von Mises stress |
 |---|---|---|
